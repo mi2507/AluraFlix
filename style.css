@@ -48,3 +48,9 @@ h2 {
   color: #ffffff;
   margin-bottom: 24px;
 }
+
+@media screen and (max-width:640px){
+  body > img {
+    margin: 12px 6px;
+  }
+}
